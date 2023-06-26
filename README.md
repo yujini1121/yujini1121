@@ -4,7 +4,7 @@
 
 ## Stats  
 ![yujini1121](https://github-readme-stats.vercel.app/api?username=yujini1121&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujini1121&layout=compact&theme=omni&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujini1121&layout=compact&theme=omni&card_width=460)
 
 <br/><br/><br/><br/>
 
