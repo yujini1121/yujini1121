@@ -3,8 +3,8 @@
 
 
 ## Stats  
-![yujini1121](https://github-readme-stats.vercel.app/api?username=yujini1121&&count_private=true&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujini1121&layout=compact&theme=github_dark&card_width=468)
+![yujini1121](https://github-readme-stats.vercel.app/api?username=yujini1121&&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujini1121&layout=compact&theme=dracula&card_width=468)
 
 <br/><br/><br/><br/>
 
