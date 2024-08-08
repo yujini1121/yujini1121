@@ -2,17 +2,18 @@
 <br/><br/><br/><br/>-->
 
 
-## Stats  
+<!--## Stats  
 ![yujini1121's Github](https://github-readme-stats.vercel.app/api?username=yujini1121&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujini1121&layout=compact&theme=radical&card_width=468)
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/>-->
+
 
 ## Study
 <img src="https://img.shields.io/badge/Unity -000000?style=for-the-badge&logo=Unity #&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Csharp -239120?style=for-the-badge&logo=csharp #&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++ -262577?style=for-the-badge&logo=cplusplus #&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Aseprite -7D929E?style=for-the-badge&logo=aseprite&logoColor=white">
+<!--<img src="https://img.shields.io/badge/Aseprite -7D929E?style=for-the-badge&logo=aseprite&logoColor=white">-->
 
 <br/><br/><br/><br/>
 
