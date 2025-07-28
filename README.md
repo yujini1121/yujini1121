@@ -9,7 +9,7 @@
 <br/><br/><br/><br/>
 
 
-## Skill
+## Skills
 <img src="https://img.shields.io/badge/Unity -000000?style=for-the-badge&logo=Unity #&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Csharp -239120?style=for-the-badge&logo=csharp #&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++ -262577?style=for-the-badge&logo=cplusplus #&logoColor=white"/>
